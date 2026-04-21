@@ -22,7 +22,7 @@ Aplicación web que consume la API y muestra productos dinámicamente.
 ## 📸 Evidence
 
 ### Vista principal
-![Frontend](frontend.png)
+![Frontend](./screenshots/frontend.png)
 
 ---
 
