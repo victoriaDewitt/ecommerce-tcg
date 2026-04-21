@@ -34,7 +34,7 @@ http://localhost:8080/products/category/pokemon
 ## 🖼️ Screenshots
 
 ### Database
-![Database](./screenshots/db(1).png)
+![Database](./screenshots/db.png)
 
 ### Endpoint in Postman
 ![Postman](./screenshots/postman.png)# 🃏 Hoenn TCG Store
