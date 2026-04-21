@@ -1,8 +1,28 @@
-# Ignorar configuración sensible
+# 🔐 Configuración sensible
 src/main/resources/application.properties
 *.env
 
-# Ignorar archivos generados por Maven
+# 📦 Archivos generados por Maven
 /target/
-/target/*.jar
-/target/*.jar.original
+*.jar
+*.war
+*.ear
+
+# 🧠 IDEs
+.idea/
+.vscode/
+*.iml
+
+# 🗂️ Logs
+*.log
+
+# 🧹 Archivos temporales
+*.tmp
+*.swp
+
+# 🗃️ Historial de VS Code
+.history/
+
+# 🧾 OS
+.DS_Store
+Thumbs.db
