@@ -1,5 +1,43 @@
 
-# 🃏 Hoenn TCG Store
+# 🛒 TCG Store API
+
+REST API developed with Spring Boot to manage products for a Trading Card Game store.
+
+---
+
+## 🚀 Technologies
+- Java 17
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- Maven
+
+---
+
+## 📦 Features
+✔ Get products by category  
+✔ MySQL database connection  
+✔ REST API ready to be consumed by a frontend  
+
+---
+
+## 🔗 Endpoints
+
+### Get products by category
+GET /products/category/{category}
+
+📌 Example:
+http://localhost:8080/products/category/pokemon
+
+---
+
+## 🖼️ Screenshots
+
+### Database
+![Database](./screenshots/db(1).png)
+
+### Endpoint in Postman
+![Postman](./screenshots/postman.png)# 🃏 Hoenn TCG Store
 
 🎮 Pokémon TCG online store project developed with **Java Spring Boot**, **MySQL**, **HTML**, **CSS** y **JavaScript**.
 
