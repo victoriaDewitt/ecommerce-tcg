@@ -1,7 +1,8 @@
 
-# 🛒 TCG Store API
+# 🛒 TCG Store API – Spring Boot REST Backend for E-commerce
 
-REST API developed with Spring Boot to manage products for a Trading Card Game store.
+REST API built with Spring Boot for managing products in a Trading Card Game (TCG) e-commerce system. 
+Designed to serve as a backend service for frontend applications.
 
 ---
 
@@ -37,7 +38,24 @@ http://localhost:8080/products/category/pokemon
 ![Database](./screenshots/db.png)
 
 ### Endpoint in Postman
-![Postman](./screenshots/postman.png)# 🃏 Hoenn TCG Store
+![Postman](./screenshots/postman.png)
+
+---
+
+## 📁 Project Structure
+
+src/
+ ├── controller/
+ ├── model/
+ ├── repository/
+ └── service/
+
+ ---
+
+# 🛒 TCG Store API – Spring Boot REST Backend for E-commerce
+
+REST API built with Spring Boot for managing products in a Trading Card Game (TCG) e-commerce system. 
+Designed to serve as a backend service for frontend applications.
 
 🎮 Pokémon TCG online store project developed with **Java Spring Boot**, **MySQL**, **HTML**, **CSS** y **JavaScript**.
 
@@ -95,7 +113,7 @@ mvn spring-boot:run
 
 
 
-# 🃏 Hoenn TCG Store
+# 🛒 TCG Store API – Spring Boot REST Backend for E-commerce
 
 🎮 Proyecto de tienda online de cartas Pokémon (TCG) desarrollado con **Java Spring Boot**, **MySQL**, **HTML**, **CSS** y **JavaScript**.
 💡 **Descripción del proyecto:**  
@@ -136,7 +154,15 @@ mvn spring-boot:run
 4.** Abrir el frontend en tu navegador **(`index.html`) y probar la tienda.
 
 ---
+## 📁 Project Structure
 
+src/
+ ├── controller/
+ ├── model/
+ ├── repository/
+ └── service/
+ 
+---
 
 ## 📝 Uso
 
