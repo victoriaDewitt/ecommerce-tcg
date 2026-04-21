@@ -15,6 +15,17 @@ Designed to serve as a backend service for frontend applications.
 
 ---
 
+## 🖥️ Frontend
+
+Aplicación web que consume la API y muestra productos dinámicamente.
+
+## 📸 Evidence
+
+### Vista principal
+![Frontend](frontend.png)
+
+---
+
 ## 📦 Features
 ✔ Get products by category  
 ✔ MySQL database connection  
